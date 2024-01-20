@@ -6,7 +6,7 @@
 I'm a frontend developer.
 
 - [Courses](https://www.google.com/) 👨🏼‍🏫 - It's are technical courses on many technologies, such as TypeScript, JavaScript, ReactJS, React Native, NodeJS, Python, Flask, Git and more.
-- [wisdom](https://pt.wikipedia.org/wiki/Steve_Jobs)🔱 - 𝚈𝚘𝚞𝚛 𝚝𝚒𝚖𝚎 𝚒𝚜 𝚕𝚒𝚖𝚒𝚝𝚎𝚍, 𝚜𝚘 𝚍𝚘𝚗'𝚝 𝚠𝚊𝚜𝚝𝚎 𝚒𝚝 𝚕𝚒𝚟𝚒𝚗𝚐 𝚜𝚘𝚖𝚎𝚘𝚗𝚎 𝚎𝚕𝚜𝚎'𝚜 𝚕𝚒𝚏𝚎... - 𝚂𝚝𝚎𝚟𝚎 𝙹𝚘𝚋𝚜
+- [wisdom](https://pt.wikipedia.org/wiki/Steve_Jobs) 🔱 - 𝚈𝚘𝚞𝚛 𝚝𝚒𝚖𝚎 𝚒𝚜 𝚕𝚒𝚖𝚒𝚝𝚎𝚍, 𝚜𝚘 𝚍𝚘𝚗'𝚝 𝚠𝚊𝚜𝚝𝚎 𝚒𝚝 𝚕𝚒𝚟𝚒𝚗𝚐 𝚜𝚘𝚖𝚎𝚘𝚗𝚎 𝚎𝚕𝚜𝚎'𝚜 𝚕𝚒𝚏𝚎... - 𝚂𝚝𝚎𝚟𝚎 𝙹𝚘𝚋𝚜
 
 ### Tech Stack:
 
