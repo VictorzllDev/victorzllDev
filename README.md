@@ -1,7 +1,7 @@
 
 # Hi, I'm Victor! :D
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/_victorzll_)](https://instagram.com/_victorzll_)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/_victorzll_)](https://instagram.com/victxr.xyz)
 
 ### About me
 I'm a fullstack developer.
